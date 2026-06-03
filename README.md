@@ -144,23 +144,6 @@ Cross-platform mobile task manager with **Firebase Auth** and real-time Firestor
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinitsonii&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsonii&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vinitsonii&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🧩 DSA & Problem Solving
 
 I practice Data Structures & Algorithms regularly to build strong problem-solving fundamentals.
