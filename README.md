@@ -1,162 +1,209 @@
-<div align="center">Hi, I'm Vinit Soni 👋
+<div align="center">  
+  
+# Hi, I'm Vinit Soni 👋  
+  
+### Full Stack Developer · MCA Student
 
-Full-Stack Developer • MCA Student • Building Modern Digital Experiences
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Full-Stack+Web+%26+Mobile+Developer;Python+%7C+Java+%7C+C%2B%2B+%7C+C%23+%7C+JavaScript;React+%7C+Node.js+%7C+Django+%7C+Flask+%7C+ASP.NET;Flutter+%7C+Firebase+%7C+MongoDB+%7C+MySQL;DSA+Enthusiast+%7C+Always+Building+Something.)](https://git.io/typing-svg)  
+  
+<br/>  
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinitsonii)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vinitsonii)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vinitsonii)  
+</div>  
+  
+---  
 
-""Typing SVG" (https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+Developer;Building+Scalable+Modern+Applications;Next.js+%7C+ASP.NET+%7C+Flutter+%7C+Node.js;Passionate+About+Clean+UI+%26+Backend+Systems;DSA+Enthusiast+%7C+Always+Learning)" (https://git.io/typing-svg)
+ ## 👨‍💻 About me
 
-<br/><a href="https://vinitsoni.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
-</a><a href="https://github.com/vinitsonii">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a><a href="https://linkedin.com/in/vinitsonii">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><img src="https://komarev.com/ghpvc/?username=vinitsonii&style=for-the-badge&color=58A6FF&label=Profile+Views" /></div>---
 
-🚀 About Me
+<p>
+Hi, I'm <strong>Vinit Soni</strong> — a passionate <strong>Full-Stack Developer</strong> and <strong>MCA student</strong> from India 🇮🇳. I enjoy building modern web and mobile applications with clean UI, scalable backend systems, and real-world functionality.
+</p>
 
-I'm a Full-Stack Developer and MCA student passionate about building scalable web and mobile applications with modern technologies, clean UI, and efficient backend systems.
+<p>
+Currently focused on full-stack development, DSA, and building impactful real-world projects.
+</p>
 
-I enjoy creating real-world software solutions ranging from enterprise systems to modern responsive web applications and cross-platform mobile apps.
-
-- 🌐 Full-Stack Web Development
-- 📱 Mobile Application Development
-- ⚡ REST APIs & Backend Systems
-- ☁️ Cloud & Deployment
-- 🧠 DSA & Problem Solving
+<pre><code>
+Name               : Vinit Soni
+Education          : Master of Computer Applications (MCA)
+Role               : Full-Stack Developer
+Focus              : Web Development · Mobile Apps · Backend Systems
+Interests          : DSA · Open Source · UI/UX
+Currently Learning : Full-Stack Development & Problem Solving
+Open To            : Internships · Collaborations · Freelance Work
+</code></pre> 
 
 ---
-
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 💻 Languages
 
-"JavaScript" (https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-"TypeScript" (https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-"Python" (https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-"Java" (https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk)
-"C++" (https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
-"C#" (https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=c-sharp)
-"Dart" (https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart)
-"PHP" (https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php)
-
----
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+"C#" (https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+"PHP" (https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+"Dart" (https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+"VB.NET" (https://img.shields.io/badge/VB.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 
 🌐 Frontend
 
-"React" (https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-"Next.js" (https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss)
-"Bootstrap" (https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap)
-"HTML5" (https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
-"CSS3" (https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
+"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+"Next.js" (https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
----
+⚙️ Backend
 
-⚙️ Backend & Frameworks
+"ASP.NET" (https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+"Supabase" (https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+"JDBC" (https://img.shields.io/badge/JDBC-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+"REST API" (https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=postman&logoColor=white)
+"JSP/Servlet" (https://img.shields.io/badge/JSP%2FServlet-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-"Node.js" (https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
-"Express.js" (https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express)
-"ASP.NET" (https://img.shields.io/badge/ASP.NET-111827?style=for-the-badge&logo=dotnet)
-"Django" (https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django)
-"Flask" (https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask)
+🗄️ Database
 
----
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+"Oracle" (https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+"SQL Server" (https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-📱 Mobile Development
+📱 Mobile
 
-"Flutter" (https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter)
-"Firebase" (https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase)
+"Flutter" (https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+"Android Studio" (https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
----
+☁️ Cloud & Hosting
 
-🗄️ Databases & Cloud
+"AWS" (https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+"Google Cloud" (https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+"Vercel" (https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+"Netlify" (https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+"Render" (https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+"Somee" (https://img.shields.io/badge/Somee-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+"InfinityFree" (https://img.shields.io/badge/InfinityFree-000000?style=flat-square)
 
-"MongoDB" (https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
-"MySQL" (https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
-"SQL Server" (https://img.shields.io/badge/SQL_Server-111827?style=for-the-badge&logo=microsoftsqlserver)
-"Oracle" (https://img.shields.io/badge/Oracle-111827?style=for-the-badge&logo=oracle)
-"Supabase" (https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase)
-"Vercel" (https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel)
+🧰 Tools & IDEs
 
----
+"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+"Visual Studio" (https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+"NetBeans" (https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
+"Android Studio" (https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
-✨ Featured Projects
+🤖 AI & Integrations
 
-☁️ Cloud Kitchen Management System
+"OpenAI" (https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+"ChatGPT API" (https://img.shields.io/badge/ChatGPT_API-10A37F?style=flat-square&logo=openai&logoColor=white)
+"Prompt Engineering" (https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square)
+"AI Integration" (https://img.shields.io/badge/AI_Integration-0EA5E9?style=flat-square)
 
-Modern cloud kitchen platform featuring:
+🧠 CS Fundamentals
 
-- Customer ordering system
-- Admin dashboard
-- Inventory management
-- Order tracking
-- Analytics & reporting
+"DSA" (https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF6B6B?style=flat-square)
+"OOP" (https://img.shields.io/badge/OOP-6C5CE7?style=flat-square)
+"DBMS" (https://img.shields.io/badge/DBMS-00B4D8?style=flat-square)
+"Operating Systems" (https://img.shields.io/badge/Operating_Systems-2ECC71?style=flat-square)
+"Computer Networks" (https://img.shields.io/badge/Computer_Networks-F39C12?style=flat-square)
+"Software Engineering" (https://img.shields.io/badge/Software_Engineering-E17055?style=flat-square)
+  
 
-Stack: "ASP.NET" "C#" "SQL Server"
+---  
+  
+## 🚀 Featured Projects  
+  
+<table>  
+<tr>  
+<td width="50%" valign="top">  
+  
+### ☁️ Cloud Kitchen Management System  
+A full-stack cloud kitchen app with separate **Customer** and **Admin** portals. Customers browse menus and place orders; admins manage inventory, track orders, and view analytics.  
+  
+**Stack:** `ASP.NET` `C#` `MSSQL` `HTML/CSS` `JS`  
+  
+</td>  
+<td width="50%" valign="top">  
+  
+### 🏨 Hotel Management System  
+End-to-end hotel platform with **room booking**, guest records, check-in/out management, billing, and a complete admin control panel.  
+  
+**Stack:** `ASP.NET` `C#` `MySQL` `HTML/CSS`  
+  
+</td>  
+</tr>  
+<tr>  
+<td width="50%" valign="top">  
+  
+### 💰 Payroll Management System  
+Enterprise-grade payroll solution with **employee management**, automated salary computation, attendance tracking, and detailed reports.  
+  
+**Stack:** `C#` `VB.NET` `MSSQL`  
+  
+</td>  
+<td width="50%" valign="top">  
+  
+### 📱 TODO App *(Flutter)*  
+Cross-platform mobile task manager with **Firebase Auth** and real-time Firestore sync — runs on Android & iOS from one codebase.  
+  
+**Stack:** `Flutter` `Dart` `Firebase` `Firestore`  
+  
+</td>  
+</tr>  
+</table>  
+  
+---  
+  
+## 🧩 DSA & Problem Solving  
+  
+I practice Data Structures & Algorithms regularly to build strong problem-solving fundamentals.  
+  
+**Topics:**  
+`Arrays & Strings` `Linked Lists` `Stacks & Queues` `Trees & BST` `Graphs & BFS/DFS` `Recursion & Backtracking` `Dynamic Programming` `Sorting & Searching` `Hashing` `Greedy Algorithms`  
 
----
-
-🏨 Hotel Reservation System
-
-Complete hotel booking and management system with:
-
-- Room reservation
-- Guest management
-- Billing system
-- Admin control panel
-
-Stack: "ASP.NET" "MySQL"
-
----
-
-💰 Payroll Management System
-
-Enterprise payroll solution including:
-
-- Employee management
-- Attendance tracking
-- Salary calculation
-- Report generation
-
-Stack: "C#" "VB.NET" "SQL Server"
-
----
-
-📱 Flutter Todo Application
-
-Cross-platform task management application with:
-
-- Firebase Authentication
-- Firestore real-time sync
-- Responsive mobile UI
-
-Stack: "Flutter" "Firebase"
-
----
-
-📚 Currently Learning
-
-- Data Structures & Algorithms
-- Advanced React & Next.js
-- REST API Architecture
-- Cloud Deployment
-- AI Integration in Web Apps
-- System Design Fundamentals
-
----
-
-📈 GitHub Stats
-
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=vinitsonii&show_icons=true&theme=tokyonight&hide_border=true" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsonii&layout=compact&theme=tokyonight&hide_border=true" /><img src="https://streak-stats.demolab.com?user=vinitsonii&theme=tokyonight&hide_border=true" /></div>---
-
-🤝 Connect With Me
-
-<div align="center"><a href="https://vinitsoni.vercel.app">Portfolio</a> •
-<a href="https://github.com/vinitsonii">GitHub</a> •
-<a href="https://linkedin.com/in/vinitsonii">LinkedIn</a>
-
-</div>---
-
-<div align="center">Built with passion, consistency, and curiosity 🚀
-
-</div>
+  
+## 📚 Currently Learning  
+  
+| 🔧 Technology | 📌 Area | ⚡ Status |  
+|---|---|---|  
+| ⚛️ React.js | Hooks, Context API, React Router | 🔄 In Progress |  
+| 🟢 Node.js + Express | REST APIs, Middleware | 🔄 In Progress |  
+| 🍃 MongoDB + Mongoose | NoSQL, ODM, Aggregation | 🔄 In Progress |  
+| 🐍 Django | MVT, ORM, REST Framework | 🔄 In Progress |  
+| ☁️ Cloud & Deployment | Firebase, Supabase, Render, Vercel | 🔄 In Progress |  
+  
+  
+---  
+  
+## 💡 What I'm Looking For  
+  
+- 🤝 **Collaboration** on web or mobile projects  
+- 🌱 **Internship** opportunities in software development  
+- 🧪 **Open source** projects to contribute to  
+- 💬 **Tech discussions** — always happy to talk code!  
+  
+---  
+  
+## 🤝 Let's Connect  
+  
+<div align="center">  
+  
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinitsonii)  
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinitsonii)  
+[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinitsonii)  
+  
+</div>  
+  
+---  
+  
+<div align="center">  
+  
+*Thanks for stopping by! If you find something useful, a ⭐ on the repo means a lot — happy coding! 🚀*  
+  
+</div>  
