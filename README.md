@@ -39,81 +39,42 @@ Open To            : Internships · Collaborations · Freelance Work
 ---
 ## 🛠️ Tech Stack
 
-💻 Languages
+### 💻 Languages
 
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-"C#" (https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-"PHP" (https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-"Dart" (https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-"VB.NET" (https://img.shields.io/badge/VB.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 
-🌐 Frontend
+### 🌐 Frontend
 
-"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-"Next.js" (https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-⚙️ Backend
+### ⚙️ Backend
 
-"ASP.NET" (https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-"Supabase" (https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-"JDBC" (https://img.shields.io/badge/JDBC-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-"REST API" (https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=postman&logoColor=white)
-"JSP/Servlet" (https://img.shields.io/badge/JSP%2FServlet-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black) ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=postman&logoColor=white) ![JSP/Servlet](https://img.shields.io/badge/JSP%2FServlet-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-🗄️ Database
+### 🗄️ Database
 
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-"Oracle" (https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-"SQL Server" (https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-📱 Mobile
+### 📱 Mobile
 
-"Flutter" (https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-"Android Studio" (https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
-☁️ Cloud & Hosting
+### ☁️ Cloud & Hosting
 
-"AWS" (https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-"Google Cloud" (https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-"Vercel" (https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-"Netlify" (https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-"Render" (https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-"Somee" (https://img.shields.io/badge/Somee-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-"InfinityFree" (https://img.shields.io/badge/InfinityFree-000000?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Somee](https://img.shields.io/badge/Somee-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![InfinityFree](https://img.shields.io/badge/InfinityFree-000000?style=flat-square)
 
-🧰 Tools & IDEs
+### 🧰 Tools & IDEs
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-"Visual Studio" (https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-"NetBeans" (https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
-"Android Studio" (https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 
-🤖 AI & Integrations
+### 🤖 AI & Integrations
 
-"OpenAI" (https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-"ChatGPT API" (https://img.shields.io/badge/ChatGPT_API-10A37F?style=flat-square&logo=openai&logoColor=white)
-"Prompt Engineering" (https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square)
-"AI Integration" (https://img.shields.io/badge/AI_Integration-0EA5E9?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![ChatGPT API](https://img.shields.io/badge/ChatGPT_API-10A37F?style=flat-square&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square) ![AI Integration](https://img.shields.io/badge/AI_Integration-0EA5E9?style=flat-square)
 
-🧠 CS Fundamentals
+### 🧠 CS Fundamentals
 
-"DSA" (https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF6B6B?style=flat-square)
-"OOP" (https://img.shields.io/badge/OOP-6C5CE7?style=flat-square)
-"DBMS" (https://img.shields.io/badge/DBMS-00B4D8?style=flat-square)
-"Operating Systems" (https://img.shields.io/badge/Operating_Systems-2ECC71?style=flat-square)
-"Computer Networks" (https://img.shields.io/badge/Computer_Networks-F39C12?style=flat-square)
-"Software Engineering" (https://img.shields.io/badge/Software_Engineering-E17055?style=flat-square)
-  
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF6B6B?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-6C5CE7?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-00B4D8?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating_Systems-2ECC71?style=flat-square) ![Computer Networks](https://img.shields.io/badge/Computer_Networks-F39C12?style=flat-square) ![Software Engineering](https://img.shields.io/badge/Software_Engineering-E17055?style=flat-square)
+
 
 ---  
   
